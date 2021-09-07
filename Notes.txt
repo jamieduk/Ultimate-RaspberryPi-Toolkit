@@ -7,7 +7,12 @@ https://jnet.forumotion.com/t1765-rpi-4-multi-menu-by-cjnet-2021#2727
 
 Github Link
 
+https://github.com/jamieduk/Ultimate-RaspberryPi-Toolkit.git
 
+
+Get The Ultimate Toolkit Upgrade
+
+git clone https://github.com/jamieduk/Ultimate-RaspberryPi-Toolkit.git
 
 
 App List (Menu 1)
