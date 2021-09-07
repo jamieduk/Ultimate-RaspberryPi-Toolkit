@@ -21,3 +21,4 @@ fi
 #
 # setup menu perms
 sudo chmod +x *sh
+bash menu.sh
