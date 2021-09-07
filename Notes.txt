@@ -1,0 +1,199 @@
+RPI-4 MULTI MENU By (c)J~Net 2021
+
+The Biggest RPI4 Tool Menu Youl Ever Need!
+
+Forum Link
+https://jnet.forumotion.com/t1765-rpi-4-multi-menu-by-cjnet-2021#2727
+
+Github Link
+
+
+
+
+App List (Menu 1)
+
+Software & Coding Scripts & Cheats
+
+https://github.com/danistefanovic/build-your-own-x.git
+
+https://github.com/jwasham/coding-interview-university.git
+
+https://github.com/public-apis/public-apis.git
+
+https://github.com/jlevy/the-art-of-command-line.git
+
+https://github.com/trekhleb/javascript-algorithms.git
+
+https://github.com/kamranahmedse/developer-roadmap.git
+
+https://github.com/home-assistant/operating-system.git
+
+https://github.com/FezVrasta/rpi4-docker-compose-home-assistant.git
+
+https://github.com/Make-Magazine/PirateRadio.git
+
+https://github.com/zabirauf/pichat.git
+
+
+Other Software  (Menu 2)
+
+RPI File Sharing Server
+https://github.com/dentechy/Raspberry-Pi-File-Server-Tutorial.git
+
+PiHole
+https://github.com/pi-hole/pi-hole.git
+
+TorrentBox
+https://github.com/j-bill/torrentbox.git
+
+awesome-raspberry-pi-PenTesting
+https://github.com/thibmaek/awesome-raspberry-pi.git
+
+Red-Team-Toolkit
+https://github.com/infosecn1nja/Red-Teaming-Toolkit.git
+
+Night-Pi
+https://github.com/Sekhan/NightPi.git
+
+WIFI Captive Portal
+https://github.com/tretos53/Captive-Portal.git
+
+Wifi Raspberry-Pineapple
+https://github.com/balena-io-playground/raspberry-pineapple.git
+
+Mesh-Network-With-Pi
+https://github.com/binnes/WiFiMeshRaspberryPi.git
+
+Ham Radio
+https://github.com/DD5HT/awesome-hamradio.git
+
+Social Media Hub
+https://github.com/humhub/humhub.git
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Extra   (Menu 3)
+
+Open VPN
+https://jnet.openvpn.com/quick-start
+
+Home Router Pi
+https://www.zahradnik.io/raspberry-pi-as-a-home-router
+
+VMWare For RPi4
+https://networkchuck.com/vmware-raspberrypi
+
+3CX Phone System
+https://www.3cx.com/docs/installing-pbx-raspberry-pi/
+
+Another Wifi Captive Portal
+https://pimylifeup.com/raspberry-pi-captive-portal/
+
+Retro-Pi
+https://retropie.org.uk/
+
+Kodi
+https://mediaexperience.com/raspberry-pi-xbmc-with-raspbmc/
+
+Robotics
+https://github.com/orgs/rpiRobotics/repositories
+
+https://all3dp.com/1/best-raspberry-pi-projects/
+
+Open Source Socail Media (3)
+https://opensource.com/article/20/3/raspberry-pi-open-source-social
+
+TorBox
+https://www.torbox.ch/
+
+Offline Pi Wiki (choose subjects)
+https://www.rickmakes.com/offline-wikipedia-on-wired-raspberry-pi-using-kiwix/
+
+Pi Drop Box
+https://www.instructables.com/Raspberry-Pi-Owncloud-dropbox-clone/
+
+Plex Server
+https://www.howtogeek.com/400958/how-to-turn-a-raspbery-pi-into-a-plex-server/
+
+Alexa-Pi
+https://developer.amazon.com/en-US/docs/alexa/avs-device-sdk/raspberry-pi-script.html
+
+Alarm-Pi
+http://www.projects.privateeyepi.com/home/home-alarm-system-project
+
+RPi-Security-Audition Tool
+https://www.linuxadictos.com/en/fruitywifi-convierte-tu-raspberry-pi-en-una-herramienta-de-auditoria.html
+
+Minecraft-Server-Pi
+https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/
+
+RPi-NAS
+https://www.makeuseof.com/tag/turn-your-raspberry-pi-into-a-nas-box/
+
+Crypto Pi-Bot
+https://medium.com/coinmonks/how-to-turn-your-raspberry-pi-into-a-crypto-trading-bot-6cb07b93a8e
+
+Open Mesh Networking
+https://jnet.sytes.net/?c=qMKQ
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+OS List (Menu 4)
+
+https://github.com/sakaki-/gentoo-on-rpi-64bit
+
+https://www.kali.org/docs/arm/raspberry-pi-4/
+
+https://rpi4-uefi.dev/win10-arm64-on-pi-4b/
+
+https://retropie.org.uk/download/
+
+https://sourceforge.net/projects/openmediavault/files/
+
+https://en.opensuse.org/HCL:Raspberry_Pi4
+
+Manjaro:
+Via: https://manjaro.org/download/
+
+Ubuntu MATE:
+Via: https://ubuntu-mate.org/download/
+
+OpenSUSE:
+https://en.opensuse.org/HCL:Raspberry_Pi4
+
+Ubuntu 20.04:
+Via: https://www.raspberrypi.org/downloads/ 
+
+
+
+J~Net Links   (Menu 5)
+
+My YT
+My Twitter
+My Site
+My FOrum
+My Radio
+My Repos
+
+~~~~~~~~~~~~~~~~~
+
+EXTRA Menu
+
+
+1. See Temperature
+2. Raspi-Config
+3. Update & Upgrade
+4. Update EEPROM
+5. Screenshot From Pi Cam To image.jpg
+6. Stream Pi Cam To video.yuv
+7. Enable Firewall
+
+Edit extra.sh and add your own!
+
+Also visit
+jnet.sytes.net
+
+
+
