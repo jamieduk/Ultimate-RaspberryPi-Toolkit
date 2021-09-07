@@ -28,57 +28,89 @@ case $n in
 clear
 #  op 1
 git clone https://github.com/dentechy/Raspberry-Pi-File-Server-Tutorial.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 2)
 clear
 #  op 5
 git clone https://github.com/pi-hole/pi-hole.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 3)
 clear
 #  op 5
 git clone https://github.com/j-bill/torrentbox.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 4)
 clear
 #  op 5
 git clone https://github.com/thibmaek/awesome-raspberry-pi.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 5)
 clear
 #  op 5
 git clone https://github.com/infosecn1nja/Red-Teaming-Toolkit.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 6)
 clear
 #  op 5
 git clone https://github.com/Sekhan/NightPi.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 7)
 clear
 #  op 5
 git clone https://github.com/tretos53/Captive-Portal.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 8)
 clear
 #  op 5
 git clone https://github.com/balena-io-playground/raspberry-pineapple.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 # send arg here
 9)
 clear
 #  op 6
 git clone https://github.com/binnes/WiFiMeshRaspberryPi.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 10)
 clear
 #  op 7
 git clone https://github.com/DD5HT/awesome-hamradio.git
-exit ;;
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 11)
 clear
 #  op 5
 git clone https://github.com/humhub/humhub.git
+echo "Press Enter When Ready"
+read Y
+bash menu.sh ;;
 # returning to menu
 12)
 clear

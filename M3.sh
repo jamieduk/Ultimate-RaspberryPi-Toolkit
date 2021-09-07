@@ -107,7 +107,6 @@ clear
 firefox https://www.rickmakes.com/offline-wikipedia-on-wired-raspberry-pi-using-kiwix/ &
 # returning to menu
 bash menu.sh ;;
-
 13)
 clear
 #  op 5
@@ -120,14 +119,12 @@ clear
 firefox https://www.howtogeek.com/400958/how-to-turn-a-raspbery-pi-into-a-plex-server/ &
 # returning to menu
 bash menu.sh ;;
-
 15)
 clear
 #  op 5
 firefox https://developer.amazon.com/en-US/docs/alexa/avs-device-sdk/raspberry-pi-script.html &
 # returning to menu
 bash menu.sh ;;
-
 16)
 clear
 #  op 5
@@ -140,39 +137,32 @@ clear
 firefox https://www.linuxadictos.com/en/fruitywifi-convierte-tu-raspberry-pi-en-una-herramienta-de-auditoria.html &
 # returning to menu
 bash menu.sh ;;
-
 18)
 clear
 #  op 5
 firefox https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/ &
 # returning to menu
 bash menu.sh ;;
-
 19)
 clear
 #  op 5
 firefox https://www.makeuseof.com/tag/turn-your-raspberry-pi-into-a-nas-box/ &
 # returning to menu
 bash menu.sh ;;
-
 20)
 clear
 #  op 5
 firefox https://medium.com/coinmonks/how-to-turn-your-raspberry-pi-into-a-crypto-trading-bot-6cb07b93a8e &
 # returning to menu
 bash menu.sh ;;
-
 21)
 clear
 #  op 5
 firefox https://jnet.sytes.net/?c=qMKQ
 # returning to menu
 bash menu.sh ;;
-
 22)
 clear
 #  op 7
 exit ;;
-
 esac
-

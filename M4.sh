@@ -27,52 +27,62 @@ case $n in
 clear
 #  op 1
 firefox https://github.com/sakaki-/gentoo-on-rpi-64bit &
+exit ;;
 # returning to menu
 2)
 clear
 #  op 2
 firefox https://www.kali.org/docs/arm/raspberry-pi-4/ &
+exit ;;
 # returning to menu
 3)
 clear
 #  op 3
 firefox https://rpi4-uefi.dev/win10-arm64-on-pi-4b/ &
+exit ;;
 # returning to menu
 4)
 clear
 #  op 4
 firefox https://retropie.org.uk/download/ &
+exit ;;
 # returning to menu
 5)
 clear
 #  op 5
 firefox https://sourceforge.net/projects/openmediavault/files/ &
+exit ;;
 # returning to menu
 # send arg here
 6)
 clear
 #  op 6
 firefox https://en.opensuse.org/HCL:Raspberry_Pi4 &
+exit ;;
 # returning to menu
 7)
 clear
 #  op 6
 firefox https://manjaro.org/download/ &
+exit ;;
 # returning to menu
 8)
 clear
 #  op 6
 firefox https://ubuntu-mate.org/download/ &
+exit ;;
 # returning to menu
 9)
 clear
 #  op 6
 firefox https://en.opensuse.org/HCL:Raspberry_Pi4 &
+exit ;;
 # returning to menu
 10)
 clear
 #  op 6
 firefox https://www.raspberrypi.org/downloads/ &
+exit ;;
 # returning to menu
 11)
 clear
