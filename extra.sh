@@ -3,12 +3,6 @@
 # jnet.sytes.net
 #
 #
-#
-#!/bin/bash
-# (c) J~NET 2021
-# jnet.sytes.net
-#
-#
 trap '
 
   trap - INT # restore default INT handler
