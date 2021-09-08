@@ -87,6 +87,5 @@ exit ;;
 11)
 clear
 #  op 7
-exit ;;
+bash menu.sh;;
 esac
-bash menu.sh

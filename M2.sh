@@ -115,7 +115,5 @@ bash menu.sh ;;
 12)
 clear
 #  op 5
-exit;;
-# returning to menu
+bash menu.sh;;
 esac
-bash menu.sh

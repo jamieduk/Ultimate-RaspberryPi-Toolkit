@@ -164,6 +164,5 @@ bash menu.sh ;;
 22)
 clear
 #  op 7
-exit ;;
+bash menu.sh;;
 esac
-bash menu.sh

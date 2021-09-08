@@ -86,6 +86,5 @@ echo "Firewall Enabled"
 bash extra.sh ;;
 8)
 #  op 7
-exit ;;
+bash menu.sh;;
 esac
-bash menu.sh
