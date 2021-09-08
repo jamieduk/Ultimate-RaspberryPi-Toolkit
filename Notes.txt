@@ -199,7 +199,6 @@ My Repos
 
 EXTRA Menu
 
-
 1. See Temperature
 2. Raspi-Config
 3. Update & Upgrade
@@ -209,6 +208,14 @@ EXTRA Menu
 7. Enable Firewall
 
 Edit extra.sh and add your own!
+
+(I may feature you project or remove if requested by you give me a message via J~Net Contact Page or github, yt, twitter, see my links).
+
+
+Get in touch 
+
+jnet.sytes.net/contact
+
 
 Also visit
 jnet.sytes.net
