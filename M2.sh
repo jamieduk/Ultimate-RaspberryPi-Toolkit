@@ -118,3 +118,4 @@ clear
 exit;;
 # returning to menu
 esac
+bash menu.sh

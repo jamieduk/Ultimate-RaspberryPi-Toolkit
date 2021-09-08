@@ -166,3 +166,4 @@ clear
 #  op 7
 exit ;;
 esac
+bash menu.sh

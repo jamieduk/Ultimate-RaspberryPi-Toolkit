@@ -88,3 +88,4 @@ bash extra.sh ;;
 #  op 7
 exit ;;
 esac
+bash menu.sh
