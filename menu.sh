@@ -31,7 +31,7 @@ echo "2. Other Software  (Menu 2)"
 echo "3. Extra           (Menu 3)"
 echo "4. OS List         (Menu 4)"
 echo "5. J~Net Links     (Menu 5)"
-echo "6. Extra           (Menu 6)"
+echo "6. Bonus           (Menu 6)"
 echo "7. Exit Menu"
 echo "Enter your choice: (Anything else to exit)" 
 read n

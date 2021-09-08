@@ -21,7 +21,7 @@ fi
 #sudo chmod +x *sh
 #
 #
-echo -en "\e[92mExtra Menu For RPi"
+echo -en "\e[92mBonus Menu For RPi"
 echo ""
 echo ""
 echo "1. See Temperature"
