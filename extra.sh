@@ -41,9 +41,8 @@ clear
 vcgencmd measure_temp
 echo "Press Enter When Ready"
 read Y
-bash extra.sh
 # returning to menu
-bash menu.sh ;;
+bash extra.sh ;;
 2)
 clear
 #  op 2
@@ -51,7 +50,7 @@ sudo raspi-config
 echo "Press Enter When Ready"
 read Y
 # returning to menu
-bash menu.sh ;;
+bash extra.sh ;;
 3)
 clear
 #  op 3
@@ -59,7 +58,7 @@ sudo apt update -y && sudo apt upgrade && sudo rpi-update
 # returning to menu
 echo "Press Enter When Ready"
 read Y
-bash extra.sh
+bash extra.sh ;;
 4)
 clear
 #  op 4
@@ -69,7 +68,7 @@ sudo apt install rpi-eeprom
 echo "Press Enter When Ready"
 read Y
 # returning to menu
-bash menu.sh ;;
+bash extra.sh ;;
 5)
 clear
 #  op 5
@@ -77,7 +76,7 @@ raspistill -o image.jpg
 echo "Press Enter When Ready"
 read Y
 # returning to menu
-bash menu.sh ;;
+bash extra.sh ;;
 # send arg here
 6)
 clear
