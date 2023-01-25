@@ -32,7 +32,8 @@ echo "3. Extra           (Menu 3)"
 echo "4. OS List         (Menu 4)"
 echo "5. J~Net Links     (Menu 5)"
 echo "6. Bonus           (Menu 6)"
-echo "7. Exit Menu"
+echo "7. 2023            (Menu 7)"
+echo "8. Exit Menu"
 echo "Enter your choice: (Anything else to exit)" 
 read n
 case $n in
@@ -71,6 +72,11 @@ bash menu.sh ;;
 clear
 bash extra.sh ;;
 7)
+clear
+bash M6.sh
+# returning to menu
+bash menu.sh ;;
+8)
 clear
 #  op 7
 exit ;;
