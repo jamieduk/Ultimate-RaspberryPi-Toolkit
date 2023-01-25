@@ -6,7 +6,7 @@
 #
 #
 #clear
-echo -en "\e[92mJ~Net Links   (Menu 5)"
+echo -en "\e[92mMore Projects 2023 (Menu 6)"
 echo ""
 echo ""
 echo "1. pivpn"
